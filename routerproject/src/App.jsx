@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1 className='bg-red-500 text-black-400'>my name is omkar</h1>
+   
     </>
   )
 }
